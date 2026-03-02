@@ -4,9 +4,6 @@ MySQL project demonstrating relational database design and sales data analysis u
 
 This project demonstrates indexing, and business intelligence queries to generate real-world insights.
 
-
-## 📌 Project Overview
-
 ## 📌 Project Overview
 
 This project focuses on performing end-to-end sales data analysis using MySQL. The objective is to extract meaningful business insights such as revenue trends, top-performing products, and high-value customers using SQL queries.
@@ -42,6 +39,7 @@ This relational structure enables accurate revenue and performance analysis.
 ## 📈 Key Analysis Performed
 
 Total revenue calculation
+![Total_Revenue](pics/Total_revenue.png)
 
 Product-wise sales analysis
 
