@@ -8,3 +8,9 @@ This project demonstrates database design, normalization, joins, aggregations, i
 📌 Project Overview
 
 This project demonstrates relational database design and sales data analysis using MySQL. The database includes customers, products, and orders tables with foreign key relationships.
+
+🛠 Tools Used
+
+MySQL
+
+MySQL Workbench
