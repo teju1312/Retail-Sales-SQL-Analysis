@@ -39,13 +39,16 @@ This relational structure enables accurate revenue and performance analysis.
 ## 📈 Key Analysis Performed
 
 Total revenue calculation
-![Total_Revenue](pics/Total_revenue.png)
+![Total_revenue](pics/Total_revenue.png)
 
 Product-wise sales analysis
+![Total_sales_per_Product](pics/Total_sales_per_Product.png)
 
 Top customers by purchase value
+![Top_Customers](pics/Top_Customers.png)
 
 Monthly revenue trends
+![Monthly_Revenue](pics/Monthly_Revenue.png)
 
 ## 📈 Key Business Questions Solved
 
